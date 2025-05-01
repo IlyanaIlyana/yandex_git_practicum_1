@@ -113,6 +113,9 @@ git push (от англ. push, «толкать») — добавь измене
 
 git add README.md
 
+https://practicum.yandex.ru/trainer/git-basics/lesson/b1ecee27-bb78-46a0-8d13-0364c7803f55/
+
+
 ## Как установить GIT
 
 Откройте консоль и выполните эту команду.
